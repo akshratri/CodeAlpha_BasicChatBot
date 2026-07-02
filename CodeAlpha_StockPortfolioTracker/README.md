@@ -34,6 +34,6 @@ CodeAlpha_StockPortfolioTracker/
 
 ## 👨‍💻 Author
 
-**Ajitesh Parashari**
+**Akshra Tripathi**
 
 CodeAlpha Python Programming Internship
